@@ -3,6 +3,11 @@
 - 🌱 I’m currently student at Alx/Holberton School learning fullstack software engineering.
 - 🔭 I’m currently working on personal projects, you will see it soon
 
+## Streak status
+
+[![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kidusmik)](https://github-readme-streak-stats.herokuapp.com/?user=absobk02)
+
+
 ## My GitHub Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=absobk02&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
